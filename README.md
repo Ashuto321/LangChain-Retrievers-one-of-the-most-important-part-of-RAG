@@ -6,8 +6,6 @@
   <b>LangChain</b>, vector databases, embeddings, and modern AI pipelines.
 </p>
 
-<hr>
-
 <h2>Overview</h2>
 
 <p>
@@ -35,7 +33,7 @@ The repository is designed for:
   <li>Developers building production AI applications</li>
 </ul>
 
-<hr>
+
 
 <h2>Problem Statement</h2>
 
@@ -68,7 +66,7 @@ The objective of this repository is to demonstrate:
   <li>How semantic search pipelines are constructed</li>
 </ul>
 
-<hr>
+
 
 <h2>Repository Objectives</h2>
 
@@ -81,7 +79,7 @@ The objective of this repository is to demonstrate:
   <li>Build scalable AI retrieval workflows</li>
 </ul>
 
-<hr>
+
 
 <h2>Architecture of a RAG Pipeline</h2>
 
@@ -126,7 +124,7 @@ The objective of this repository is to demonstrate:
 +-------------------+
 </pre>
 
-<hr>
+
 
 <h2>Retriever Architecture Demonstration</h2>
 
@@ -171,7 +169,7 @@ The objective of this repository is to demonstrate:
                   +--------------------+
 </pre>
 
-<hr>
+
 
 <h2>Types of Retrievers Demonstrated</h2>
 
@@ -218,7 +216,7 @@ The objective of this repository is to demonstrate:
 
 </table>
 
-<hr>
+
 
 <h2>Tech Stack</h2>
 
@@ -260,7 +258,7 @@ The objective of this repository is to demonstrate:
 
 </table>
 
-<hr>
+
 
 <h2>Folder Structure</h2>
 
@@ -284,7 +282,7 @@ LangChain-Retrievers/
 └── app.py
 </pre>
 
-<hr>
+
 
 <h2>Installation</h2>
 
@@ -317,7 +315,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 </pre>
 
-<hr>
+
 
 <h2>Required Libraries</h2>
 
@@ -334,7 +332,7 @@ tiktoken
 python-dotenv
 </pre>
 
-<hr>
+
 
 <h2>Environment Variables</h2>
 
@@ -346,7 +344,7 @@ GROQ_API_KEY=your_api_key
 GOOGLE_API_KEY=your_api_key
 </pre>
 
-<hr>
+
 
 <h2>Workflow of Retrieval</h2>
 
@@ -361,7 +359,7 @@ Step 7  → Pass Retrieved Context to LLM
 Step 8  → Generate Final Answer
 </pre>
 
-<hr>
+
 
 <h2>Why Retrievers Are Important</h2>
 
@@ -375,7 +373,7 @@ Step 8  → Generate Final Answer
   <li>Enhance search quality</li>
 </ul>
 
-<hr>
+
 
 <h2>Scientific Significance</h2>
 
@@ -398,7 +396,7 @@ This repository demonstrates practical implementations of:
   <li>Multi-Stage Retrieval Pipelines</li>
 </ul>
 
-<hr>
+
 
 <h2>Sample Retrieval Pipeline</h2>
 
@@ -432,7 +430,7 @@ query = "What is Retrieval Augmented Generation?"
 results = retriever.invoke(query)
 </pre>
 
-<hr>
+
 
 <h2>Performance Considerations</h2>
 
@@ -469,8 +467,6 @@ results = retriever.invoke(query)
 
 </table>
 
-<hr>
-
 <h2>Applications</h2>
 
 <ul>
@@ -484,7 +480,7 @@ results = retriever.invoke(query)
   <li>Educational AI Systems</li>
 </ul>
 
-<hr>
+
 
 <h2>Future Improvements</h2>
 
@@ -498,7 +494,7 @@ results = retriever.invoke(query)
   <li>Advanced Metadata Filtering</li>
 </ul>
 
-<hr>
+
 
 <h2>Research References</h2>
 
@@ -510,7 +506,7 @@ results = retriever.invoke(query)
   <li>Semantic Search Architectures</li>
 </ul>
 
-<hr>
+
 
 <h2>Contributing</h2>
 
@@ -527,7 +523,7 @@ Developers and researchers can contribute by:
   <li>Creating advanced RAG workflows</li>
 </ul>
 
-<hr>
+
 
 <h2>Author</h2>
 
@@ -536,7 +532,7 @@ Developers and researchers can contribute by:
 Generative AI Research Analyst | Machine Learning Enthusiast | LangChain Developer
 </p>
 
-<hr>
+
 
 <h2>License</h2>
 
@@ -544,7 +540,7 @@ Generative AI Research Analyst | Machine Learning Enthusiast | LangChain Develop
 This project is licensed under the MIT License.
 </p>
 
-<hr>
+
 
 <h2 align="center">
 Understanding Retrieval is the Foundation of Building Powerful RAG Systems
