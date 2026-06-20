@@ -1,4 +1,4 @@
-<h1 align="center">LangChain Retrievers — One of the Most Important Parts of RAG</h1>
+<h1 align="center">LangChain Retrievers One of the Most Important Parts of RAG</h1>
 
 <p align="center">
   A comprehensive repository demonstrating how Retrieval mechanisms work inside 
